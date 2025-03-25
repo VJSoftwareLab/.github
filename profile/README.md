@@ -53,7 +53,8 @@ We follow an agile, user-centered approach:
 - School of Accountants and Auditors of Santiago  
 - Fundación SIDA Chile  
 - Ciudad del Niño Foundation  
-- Invica Foundation  
+- Invica Foundation
+- Adelanta Chile
 - Amanecer Corporation  
 - Instituto Libertad y Desarrollo  
 - Presidential Campaign of Alejandro Guillier  
@@ -64,7 +65,7 @@ We follow an agile, user-centered approach:
 - ECO Machine App  
 - StopNow App  
 - Integral Chile
-- Itertecno Valores
+- Intertecno Valores
 
 ## 🌐 Let's Connect
 
