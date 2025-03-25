@@ -46,7 +46,8 @@ We follow an agile, user-centered approach:
 
 - Komatsu Cummins Chile  
 - Ministry of Health, Chile  
-- Ministry of Defense, Chile  
+- Ministry of Defense, Chile
+- Herrera y Valdés Abogados
 - Servitrans Chile  
 - CVMark Advertising  
 - Cooperativa Eléctrica Curicó  
