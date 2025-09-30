@@ -80,7 +80,7 @@ _VJ = Vicente & Joaquín (my twin sons) — this lab is named after them._
 ## 👤 About & links
 
 - **Author**: [Daniel Fuentes](https://github.com/fuentesbusco)  
-- **Studio**: [Atelier Busco](https://github.com/atelierbusco) — boutique, production-grade delivery  
+- **Studio**: [Atelier Busco](https://github.com/Atelier-Busco) — boutique, production-grade delivery  
 - **Lab GitHub**: https://github.com/VJSoftwareLab  
 - **Contact**: daniel@atelierbusco.com
 
