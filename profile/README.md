@@ -1,97 +1,89 @@
-# Welcome to VJ Software Lab 👋
+# VJ Software Lab 🧪
 
-We craft high-quality web and mobile applications with agile execution, technical excellence, and real business impact.
+**R&D playground by Daniel Fuentes - experiments, prototypes, and tech spikes.**  
+_VJ = Vicente & Joaquín (my twin sons) — this lab is named after them._
 
-## 💡 What we do
-
-- 🚀 Agile development of web & mobile apps  
-- 🛠️ Fullstack: NodeJS, Flutter, React, Angular, Python, .NET C#  
-- 📦 APIs, admin dashboards, user interfaces  
-- ⚡ 2-week app delivery service  
-- 🧪 Product experiments & MVP prototypes  
-
-## 🎯 Our Vision
-
-To create high-impact digital products with short iteration cycles, strong UX focus, and real-world usefulness.  
-We believe in smart code, fast delivery, and solid user experience.
-
-## 👥 Who we are
-
-- **[Daniel Fuentes](https://github.com/fuentesbusco)** – Founder & Senior Software Engineer with 18+ years of experience in the industry.  
-- **Leandro Campillay** – Specialist in high-impact projects & crisis management with 14+ years of experience in the industry.
-
-## 🧭 Our Values
-
-- 🤝 Collaboration over hierarchy  
-- ⚡ Speed with quality  
-- 🧠 Simplicity with purpose  
-- 🔍 Transparency in every step  
-- 📈 Real results, not just code
-
-## 🧰 Technologies We Love
-
-Node.js • Flutter • React • Angular • Python • .NET C#  
-MySQL • PostgreSQL • AWS • Firebase • REST APIs • GitHub Actions
-
-## 🛠️ How We Work
-
-We follow an agile, user-centered approach:
-
-1. **Understand** – We dive deep into your idea and goals.  
-2. **Design** – UX-first wireframes and technical planning.  
-3. **Build** – Rapid, high-quality development cycles.  
-4. **Test & Deliver** – We launch fast and iterate based on feedback.
-
-## 🤝 Trusted by
-
-- Komatsu Cummins Chile  
-- Ministry of Health, Chile  
-- Ministry of Defense, Chile
-- Herrera y Valdés Abogados
-- Servitrans Chile  
-- CVMark Advertising  
-- Cooperativa Eléctrica Curicó  
-- School of Accountants and Auditors of Santiago
-- Fundación Chile 21 
-- Fundación SIDA Chile  
-- Ciudad del Niño Foundation  
-- Invica Foundation
-- Adelanta Chile
-- Amanecer Corporation  
-- Instituto Libertad y Desarrollo  
-- Presidential Campaign of Alejandro Guillier  
-- Municipal Campaign of Helia Molina  
-- GPS Full  
-- Integral Chile
-- Intertecno Valores
-
-## 📦 What We’ve Built
-
-A selection of real-world projects we’ve designed, developed, or contributed to — from enterprise platforms to social impact apps:
-
-- **Reclamos+ App** – A citizen complaint management system with traceable workflows and mobile-first UX.
-- **SchoolBus App** – Real-time school transportation monitoring app for parents and administrators.
-- **ECO Machine App** – IoT-based platform for managing and reporting waste collection machines.
-- **StopNow App** – Remote vehicle immobilization app, allowing authorized users to stop vehicles via the app when connected to our proprietary GPS system.
-- **GPS Full** – Vehicle tracking and logistics optimization platform.
-- **Smart Waste GPS System** – IoT-integrated GPS solution for monitoring garbage trucks and routes.
-- **Custom AVL Platform** – A fully tailored Automatic Vehicle Location system with real-time tracking, route management, and alert capabilities.
-- **Election Maps & Voter Heatmaps** – Interactive visualizations to support political campaigns with geographic voter insights.
-- **State Indicators Dashboard** – Custom-built platform to monitor and visualize key government metrics.
-- **Social Media Monitoring System** – Real-time trend detection and analytics from public social media data.
-- **eLearning Platforms** – Custom platforms for online training, course tracking, and user certification.
-- **Mining Truck Repair Tracker** – Maintenance registration and follow-up system for heavy-duty mining vehicles.
-- **Custom ERP for Servitrans Chile** – Transport operation system integrated with GPS, invoicing, and internal logistics.
-- **Campaign & NGO Tools** – Web and mobile platforms for presidential and municipal campaigns, as well as social organizations.
-- **Government Platforms** – Internal systems and dashboards developed of ministries and public institutions information (Health, Defense, Education, Cooperatives).
-
-## 🌐 Let's Connect
-
-- 📧 Contact: daniel.fuentes.b@gmail.com  
-- 🌍 Website: TBA  
-- 🐙 GitHub: https://github.com/VJSoftwareLab
+> This space is for **learning in public**: trying ideas fast, documenting what works, and sharing useful building blocks.  
+> Production-grade delivery happens at **Atelier Busco**. VJ Lab is the **experimental wing**.
 
 ---
 
-💬 Need a mobile or web app in just 2 weeks? Let’s talk.  
-🚀 We also specialize in high-impact, tailor-made software solutions.
+## 🔺 Where this fits — The R&D triad
+
+- **Daniel (Personal)** — notes, ideas, and foundational research.  
+- **Atelier Busco (Studio)** — client-facing products, production quality, SLAs.  
+- **VJ Software Lab (Lab)** — experiments, prototypes, OSS utilities, and technical proof-of-concepts.
+
+---
+
+## 🧰 What lives here
+
+- **Prototypes & MVP spikes** (mobile/web/backends)  
+- **Architecture trials** (serverless patterns, modular frontends, event-driven systems)  
+- **AI/LLM experiments** (RAG, eval harnesses, prompt engineering, agents)  
+- **Dev tooling** (CLIs, validators, code generators, CI/CD recipes)  
+- **Data & dashboards** (ETL stubs, observability demos, cost monitors)  
+- **Teaching assets** (sample apps, playgrounds, workshop material)
+
+> If something proves valuable, it may **graduate** and move to a dedicated repo or into Atelier Busco projects.
+
+---
+
+## 🚦 Stability & versioning
+
+- 🧪 **Lab** — unstable, breaking changes expected, minimal docs.  
+- 🔬 **Incubating** — gaining traction, clearer API, basic docs & tests.  
+- ✅ **Graduated** — stable and moved/linked from here (see the repo’s README).
+
+**Use at your own risk. Not production software** unless explicitly marked *Graduated*.
+
+---
+
+## 🧩 How to use this lab
+
+- Explore by folder or tags; each project has its own README.  
+- Look for **ADR.md** / **NOTES.md** for context and decisions.  
+- Issues and discussions are welcome if the repo is public.  
+- Reuse freely where licenses allow (see each project’s `LICENSE`).
+
+> Default license is **MIT**, unless a project specifies otherwise.
+
+---
+
+## 🛠️ Tech playground
+
+**Frontend**: Angular, React, Tailwind, micro-interactions  
+**Mobile**: Flutter (iOS/Android)  
+**Backend**: Node.js (NestJS), FastAPI, REST/Webhooks  
+**Cloud**: AWS (Lambda, API Gateway, S3, RDS, CloudFront), Serverless Framework  
+**Data & AI**: vector stores, RAG, orchestration, evaluation harnesses  
+**Ops**: GitHub Actions, IaC, cost & reliability experiments
+
+---
+
+## 🧭 What this is not
+
+- A portfolio site or sales page (that’s **Atelier Busco**).  
+- A place for client artifacts, private data, or NDAs.  
+- A promise of long-term maintenance for experimental code.
+
+---
+
+## 🙌 Contributing & reuse
+
+- PRs and issues are welcome on public repos.  
+- Cite and link back if something here helps your work.  
+- For production partnerships or custom builds → **Atelier Busco**.
+
+---
+
+## 👤 About & links
+
+- **Author**: [Daniel Fuentes](https://github.com/fuentesbusco)  
+- **Studio**: [Atelier Busco](https://github.com/atelierbusco) — boutique, production-grade delivery  
+- **Lab GitHub**: https://github.com/VJSoftwareLab  
+- **Contact**: daniel@atelierbusco.com
+
+---
+
+> _“Prototype boldly. Measure honestly. Graduate what matters.”_
